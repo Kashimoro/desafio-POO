@@ -25,6 +25,19 @@ public class Dev {
 		}
 	}
 	
+	public void progredir(Conteudo conteudo) {
+		
+		Optional<Conteudo> conteudoFinalizado =  this.conteudosInscritos
+				.stream()
+				.filter(conteudoInscrito -> conteudoInscrito.getTitulo().contentEquals(conteudo.getTitulo())).findFirst();
+		if(conteudoFinalizado.isPresent()) {
+			this.conteudosConcluidos.add(conteudoFinalizado.get());
+			this.conteudosInscritos.remove(conteudoFinalizado.get());
+		} else {
+			System.err.println("O Dev não está matriculado neste Conteúdo.");
+		}
+	}
+	
 	public double calcularTotalXp() {
 		return this.conteudosConcluidos
 				.stream()
