@@ -31,9 +31,9 @@
 
 <h2> 🤝 Evoluções que implementei por achar interessante</h2>
 <p>
-🔸 Inicialmente o projeto possui o metodo progredir que o Desenvolvedor finaliza os conteudos na ordem estipulada pelo bootcamp.<br>
+🔸 Inicialmente o projeto possui o método progredir que o Desenvolvedor finaliza os conteúdos na ordem estipulada pelo bootcamp.<br>
 
-✅ Sobrecarga no metodo progredir para ter a opcao de progredir em um conteúdo específico.<br>
+✅ Sobrecarga no método progredir para ter a opção de progredir em um conteúdo específico.<br>
 🔹 Desta forma é possível que o Desenvolvedor progrida no bootcamp na sua ordem de interesse.<br>
 
 ✅ Toda a execução do programa até o desenvolvedor finalizar todo o bootcamp
