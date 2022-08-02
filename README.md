@@ -1,6 +1,6 @@
 <h1> Desafio: Aprenda na Prática Programação Orientada a Objetos</h1>
 
-<p> Sejam bem-vindos ao desafio: <strong>APRENDENDO NA PRÁTICA O PARADIGMA DE ORIENTAÇÃO A OBJETOS.</strong><br>Desafio este que tive a honra de participar, e foi co-criado pela <strong><a href="https://www.linkedin.com/in/cami-la/">cami-la</a></strong> com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> 💛🧡 e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
+<p> Desafio que tive a honra de participar, e foi co-criado pela <strong><a href="https://www.linkedin.com/in/cami-la/">cami-la</a></strong> com a plataforma de cursos online <strong><a href="https://web.digitalinnovation.one/">DIGITAL INNOVATION ONE</a></strong> e disponibilizado de forma gratuita para a comunidade dos desenvolvedores Java.<br>
     💎 O objetivo principal é colocar em prática umas das principais ferramentas da OO: <strong>ABSTRAÇÃO, ENCAPSULAMENTO, HERANÇA E POLIMORFISMO,</strong> através de um projeto Java. </p>
 
 
@@ -8,15 +8,18 @@
 <h2>🛑 Pré-Requisitos</h2>
 
 <p>
-✅ Conhecer a sintaxe da Java<br>
+✅ Conhecer a sintaxe de Java<br>
 ✅ Java JDK 11<br>
 ✅ IDE para desenvolvimento Java (usarei Eclipse)<br>
-✅ Git<br>
-✅ Conta no GitHub<br>
 </p>
 
+<h2> 👣 Como executar o projeto?</h2>
+<p>
+<strong> 1. </strong> Clonar este repositorio em seu computador <br>
+<strong> 2. </strong> Importar a pasta desafio-POO como projeto na sua IDE preferida <br>
+<strong> 3. </strong> Rodar a aplicação pela classe Application no pacote dio <br>
 
-<h2> 👣 Passo-a-Passo</h2>
+<h2> 👣 Passo-a-Passo do desafio</h2>
 
 <p>
 <strong>	1.</strong> Vamos ABSTRAIR o DOMÍNIO Bootcamp e MODELAR seus ATRIBUTOS E MÉTODOS <br>
@@ -26,8 +29,20 @@
 <strong>	5.</strong> E para representar CLASSES que foram criadas e relacionadas, iremos transforma-las em OBJETOS<br>
 </p>
 
-----
+<h2> 🤝 Evoluções que implementei por achar interessante</h2>
+<p>
+🔸 Inicialmente o projeto possui o metodo progredir que o Desenvolvedor finaliza os conteudos na ordem estipulada pelo bootcamp.<br>
 
+✅ Sobrecarga no metodo progredir para ter a opcao de progredir em um conteúdo específico.<br>
+🔹 Desta forma é possível que o Desenvolvedor progrida no bootcamp na sua ordem de interesse.<br>
+
+✅ Toda a execução do programa até o desenvolvedor finalizar todo o bootcamp
+</p>
+
+----
+<h2> 📚 CONTEÚDOS EXTRAS ABAIXO 📚</h2>
+
+----
 <h2> 📚 Paradigma de Programação Orientado a Objetos (POO) </h2>
 
 <p>
